@@ -40,11 +40,6 @@ export default function AppLayout() {
 
       <div className="main">
         <header className="topbar">
-          <div className="topbar-clinic-info">
-            <span className="clinic-name">St. Antoine Medical Center</span>
-            <span className="clinic-sub">General Practice &bull; Casablanca</span>
-          </div>
-
           <div className="spacer" />
 
           <div className="profile">
